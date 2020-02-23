@@ -1,0 +1,18 @@
+-c requirements.txt
+# code formatting
+yapf==0.29.0
+# dependency management
+pip-tools
+# linting
+flake8
+flake8-annotations
+flake8-bandit
+flake8-builtins
+flake8-commas
+flake8-eradicate
+flake8-import-order
+flake8-print
+flake8-variables-names
+pep8-naming
+# static analysis
+mypy==0.761

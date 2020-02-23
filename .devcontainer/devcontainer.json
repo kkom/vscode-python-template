@@ -1,0 +1,8 @@
+{
+    "name": "vscode-python-template",
+    "image": "python:3.8-buster",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "apt-get update && apt-get -y install exuberant-ctags && pip-sync requirements.txt requirements-dev.txt"
+}
