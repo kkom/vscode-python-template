@@ -1,6 +1,6 @@
 -c requirements.txt
 # code formatting
-yapf==0.29.0
+yapf
 # linting
 flake8
 flake8-annotations
@@ -13,4 +13,4 @@ flake8-print
 flake8-variables-names
 pep8-naming
 # static analysis
-mypy==0.761
+mypy
