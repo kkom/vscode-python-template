@@ -6,4 +6,4 @@ logging.basicConfig(level=logging.INFO)
 
 logging.info("Hello world!")
 
-logging.info(f"Installed the following package: {typing_extensions}")
+logging.info(f"Example package installed: {typing_extensions}")
