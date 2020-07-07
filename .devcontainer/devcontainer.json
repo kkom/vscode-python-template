@@ -1,5 +1,5 @@
 {
-    "name": "vscode-python-template",
+    "name": "python",
     "image": "python:3.8-buster",
     "extensions": [
         "ms-python.python"
